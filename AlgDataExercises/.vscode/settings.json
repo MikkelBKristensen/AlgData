@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\ITU\\Semester 2\\Algorithms and Data Structures\\CourseLibrary\\algs4.jar"
+    ]
+}
