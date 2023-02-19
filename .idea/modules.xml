@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/AlgData.iml" filepath="$PROJECT_DIR$/.idea/AlgData.iml" />
       <module fileurl="file://$PROJECT_DIR$/AlgDataExercises/AlgDataExercises.iml" filepath="$PROJECT_DIR$/AlgDataExercises/AlgDataExercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/AlgDataHandIns/AlgDataHandIns.iml" filepath="$PROJECT_DIR$/AlgDataHandIns/AlgDataHandIns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KattisProblems/KattisProblems.iml" filepath="$PROJECT_DIR$/KattisProblems/KattisProblems.iml" />
     </modules>
   </component>
 </project>
