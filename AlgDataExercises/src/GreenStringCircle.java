@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class GreenStringCircle {
 
-
+// Not quite working
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Queue<Character> queue = new Queue<>();
