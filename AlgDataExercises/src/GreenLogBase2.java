@@ -1,3 +1,7 @@
+import edu.princeton.cs.algs4.Stack;
+
+import java.util.Iterator;
+
 public class GreenLogBase2 {
     static int logBase2(int n) {
         if (n == 0) {
