@@ -10,7 +10,6 @@ public class BasicProgramming {
 
         for (char c : input) {
             switch (c) {
-                case :
 
             }
         }
